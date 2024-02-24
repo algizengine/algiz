@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "algiz"
+version = "0.1.0"
+description = ""
+license = "MIT"
+authors = ["DarkGuy10 <62807269+DarkGuy10@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
